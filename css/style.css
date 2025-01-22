@@ -28,7 +28,7 @@ body {
   height: auto;
   letter-spacing: 0.1em;
   font-family: 'Montserrat';
-  background-image: url('../img/bg003.webp'); /* Ganti dengan path background mobile */
+  background-image: url('../img/bg001.webp'); /* Ganti dengan path background mobile */
   /*background-color: #E40017;*/
 }
 
