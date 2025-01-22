@@ -27,29 +27,29 @@ body {
   height: auto;
   letter-spacing: 0.1em;
   font-family: 'Montserrat';
-  background-image: url('../img/bg01.webp'); /* Ganti dengan path background mobile */
+  background-image: url('../img/bg003.webp'); /* Ganti dengan path background mobile */
   background-color: #E40017;
 }
 
 h1 {
-  color: #ffffff;
+  color: #E40017;
 }
 
 h2 {
-  color: #ffffff;
+  color: #E40017;
   letter-spacing: 0em;
 }
 
 h3{
-  font-weight: 500; color: #ffffff;
+  font-weight: 700; color: #E40017;
 }
 
 p{
-  color: #ffffff;
+  color: #E40017;
 }
 
 h4 {
-  color: #7f987b;
+  color: #E40017;
 }
 
 hr {
@@ -69,7 +69,7 @@ hr {
   margin: 35px auto;
   border-radius: 100%;
   background-color: #E40017;
-  border: 3px solid #ffffff;
+  /**border: 3px solid #ffffff;**/
 }
 
 .logotext {
@@ -99,11 +99,12 @@ hr {
   display: block;
   max-width: 550px;
   font-size: 0.95rem;
+  font-weight: 600;
   line-height: 1.5;
   text-decoration: none;
   transition: all 0.2s ease-in-out;
-  border-radius: 20px;
-  border: 2px solid #FFFCF3;
+  border-radius: 30px;
+  /**border: 2px solid #FFFCF3;**/
   margin: 0 auto 15px;
   color: #ffffff;
   padding: 15px 1px;
@@ -149,7 +150,7 @@ hr {
 	right:20px;
     bottom:30px;
     width:45px;
-	height:45px;
+	height:80px;
 	/*background-color:#25d366;*/
 	/*color:#FFF;*/
     text-align:center;
